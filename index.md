@@ -1,1 +1,60 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>Enzo de Souza Braz - Apresentação</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Enzo de Souza Braz">
+        <link href="css/estilo.css" rel="stylesheet" type="text/css">
+        <link href="css/lmobile.css" rel="stylesheet" media="screen and (min-width:736px) and (max-width:876px)" type="text/css">
+        <link href="css/smobile.css" rel="stylesheet" media="screen and (min-width:597px) and (max-width:736px)" type="text/css">
+        <link href="css/ssmobile.css" rel="stylesheet" media="screen and (min-width:300px) and (max-width:597px)" type="text/css">
+    </head>
+    <body>
+        <nav>
+            <ul id="menu-desktop">
+                <li><a></a></li>
+                <li><a href="index.html">Apresentação</a></li>
+                <li style="margin-bottom: 5px;"><a href="fotos/index.html">Álbum de Fotos</a></li>
+                <li><a href="gostos/index.html">Gostos</a></li>
+                <li style="float: right"><a></a></li>
+                <li style="float: right" id="contatar"><a href="mailto:enzodesouzabraz2004@gmail.com" onclick="alert('Entre em contato por esse e-mail: enzodesouzabraz2004@gmail.com')">Entre em Contato</a></li>
+            </ul>
+            
+            <ul id="menu-lmobile">
+                <li><a></a></li>
+                <li><a href="index.html">Apresentação</a></li>
+                <li style="margin-bottom: 5px;"><a href="fotos/index.html">Álbum de Fotos</a></li>
+                <li><a href="gostos/index.html">Gostos</a></li>
+                <li style="float: right" id="contatar"><a href="mailto:enzodesouzabraz2004@gmail.com" onclick="alert('Entre em contato por esse e-mail: enzodesouzabraz2004@gmail.com')">Entre em Contato</a></li>
+            </ul>
+            
+            <ul id="menu-smobile">
+                <li><a href="index.html">Apresentação</a></li>
+                <li style="margin-bottom: 5px;"><a href="fotos/index.html">Álbum de Fotos</a></li>
+                <li><a href="gostos/index.html">Gostos</a></li>
+                <li style="float: right" id="contatar"><a href="mailto:enzodesouzabraz2004@gmail.com" onclick="alert('Entre em contato por esse e-mail: enzodesouzabraz2004@gmail.com')">Entre em Contato</a></li>
+            </ul>
+        </nav>
+        <main>
+            <h1>Apresentação</h1>
+            <p style="text-align: center;">Bem-vindo ao site do Enzo de Souza Braz. Ele tem por finalidade ser um documento de identificação de seu autor.<br>
+            <img id="eu" src="img/eu.jfif" style="margin-top: 20px; margin-left: 20px;" alt="Foto de Enzo de Souza Braz de 2019">
+            <h2>Aparência</h2>
+            <p>Enzo é um menino de estatura média, com porte físico normal, pele branca, de olhos e cabelos castanhos, com algumas covinhas e com 15 anos. Suas características mais proeminentes são seu <strong>ôculos preto e seu cabelo cacheado</strong>, porém, quando entrou no CEFET-MG raspou seu cabelo. Entretanto, seu cabelo já voltou a sua forma normal. Sua roupas combinam bem com seu jeito de ser mais discreto, prefere sempre o usar um tênis preto e roupas que combinam, e prefere usar o uniforme quando está presente no colégio.</p>
+            <h2>Personalidade</h2>
+            <p>Enzo possui uma personalidade que não se destaca muito entre as pessoas. Ele é discreto, observador, estudioso, dederminado, focado e detalhista. Se preocupa com as pessoas próxmas a ele e dá valor a aquelas que se preocupam com ele. Normalmente, é amigável e sempre está de bom humor, mas quando acorda cedo pode se tornar o oposto a isso, ficando muito irritado e calado. Ele só se torna sociável depois de algumas horas acordado. Ele é muito apegado a sua família e faria qualquer coisa por ela. Prefere ficar em casa jogando e assistindo séries a sair de casa.</p>
+            <h2>História</h2>
+            <p>Enzo nasceu no Hospital Unimed Betim ás nove e vinte cinco da manhã do dia dois de dezembro. A partir dai viveu toda sua vida em Betim. Quando pequeno sua vó materna cuidava dele enquanto seus pais trabalhavam, por isso todos os dias brincava com seu primo Arthur que vivia junto a sua vó. Depois os dois entraram na natação e, conforme o tempo foi passando, entraram na escola. Enzo foi a escola pela primeira vez aos três anos de idade e lá fez seus primeiros amigos, Iagor, Davi e Artur. Juntos brincaram, estudaram e cresceram até passarem para o Ensino Fundamental. Quando eles tiveram que se separar, pois a escola só tinha a Educação Básico. Então, Enzo e Iagor foram juntos para o Colégio Santo Agostinho de Contagem. Nesse Colégio fizeram novos amigos e amaduraceram cada vez mais. Em uma ano qualquer, Iagor saiu dessa escola e se separou de seu amigo de infância. Por fim, Enzo criou novos laços de amizade com Maurício, Henrique, Lucas e outras muitas inesquecíveis pessoas. Os anos foram passando até que Enzo decidiu entrar no CEFET-MG e, novamente, se separou de seus melhores amigos, porém dessa vez ainda mantém contato com todos eles.</p>
+        </main>
+        <footer>
+            <div id="foot"><p>Este site foi feito por Enzo de Souza Braz</p>
+                <ul>
+                    <li style="margin-bottom: 10px;">MENU</li>
+                    <li style="margin-bottom: 5px;"><a href="index.html">Apresentação</a></li>
+                    <li style="margin-bottom: 5px;"><a href="fotos/index.html">Álbum de Fotos</a></li>
+                    <li style="margin-bottom: 5px;"><a href="gostos/index.html">Gostos</a></li>
+                </ul>
+            </div>
+        </footer>
+    </body>
+</html>
