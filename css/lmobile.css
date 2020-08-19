@@ -26,6 +26,10 @@ h1{
     clear: both;
 }
 
+li.edit {
+    font-size: 120%; font-family: cursive; color: brown; background-color: white;
+}
+
 img#eu {
     border: 2px solid #333333;
     border-radius: 42.5px;
