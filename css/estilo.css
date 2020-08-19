@@ -19,7 +19,7 @@ nav ul#menu-lmobile, nav ul#menu-smobile {
 }
 
 nav ul#menu-desktop li {
-    float: left; position: relative; text-align: center;
+    float: left; position: relative; text-align: center; font-size: 105%;
 }
 
 nav ul#menu-desktop li a {
