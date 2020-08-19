@@ -50,7 +50,7 @@ footer {
     text-align: center; background-color: #262626; padding: 10px; color: white; margin-top: 10px; clear:both;
 }
 
-li.edit {
+ul#edit {
     font-size: 120%; font-family: cursive; color: brown; background-color: #bdbdbd;
 }
 
